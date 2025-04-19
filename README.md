@@ -1,2 +1,2 @@
-# megatwist
-A little "Atari ST MegaTwist" fan recreation in Golang + Ebiten
+# megadist
+A little "Atari ST MegaDistortion" fan recreation in Golang + Ebiten
